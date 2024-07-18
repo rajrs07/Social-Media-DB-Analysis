@@ -1,6 +1,8 @@
 Queries to create database, tables and import data are inlcuded in the file "Social Media Database Project.sql"
 
-Queries used to determine the following questions:
+Running the code in a workbench should build a database for your review.
+
+Queries were used to determine the following questions:
 
 Q1. Who are the 5 oldest users?
 
